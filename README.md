@@ -2,7 +2,7 @@
 authorship identification, UH course 'Machine Learning'
 
 # dependency
-Python3 + LGBM + NLTK + Jupyter notebook + pandas + scikit-learn + pymysql
+Python3 + LGBM + NLTK + textstat + Jupyter notebook + pandas + scikit-learn + pymysql
 
 # How to use
 Dataset: download from  http://ritual.uh.edu/resources/    
