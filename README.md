@@ -8,6 +8,7 @@ Python3 + LGBM + NLTK + textstat + Jupyter notebook + pandas + scikit-learn + py
 Dataset: download from  http://ritual.uh.edu/resources/    
 Authorship Attribution on Reviews (CICLING 2016)， you only need to download Amazon review.    
 AA.sql: run this script to generate train+validation+test dataset. Each author will have 200 comments, total 1000 authors.   
-AA.ipynb: the main code to do LGBM classification.    
+data_processing.ipynb: the main code to do feature engineering.     
+model.ipnb: code for LGBM model.   
 ![feature importance](https://github.com/stephenkung/authorship/blob/master/final.png)
 
